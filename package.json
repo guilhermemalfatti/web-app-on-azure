@@ -1,0 +1,11 @@
+{
+    "name": "malfatti-web-app",
+    "description": "Simple Hello World with Node.js in Azure App Service",
+    "version": "0.0.1",
+    "engines": {
+        "node": ">=6.9.1"
+    },
+    "scripts": {
+        "start": "node index.js"
+    }
+}
